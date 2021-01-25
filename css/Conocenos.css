@@ -1,0 +1,57 @@
+.logo img 
+{
+  width: 50%;
+  height: auto;
+  position: relative;
+  margin: 0.5rem auto;
+}
+.menu li
+{
+  padding: 20px 100px;
+  float: left;
+ }
+ header
+ {
+  width: 100%;
+  height: 90px;
+  border-bottom: solid 2px #ccc;
+  background: #efefef;
+    border-bottom-style: solid;
+  border-bottom-color: #585858;
+  border-bottom-width: 5px;   
+ }
+ td, th
+{
+
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 1rem auto;
+   background: #b2ffff  ;
+ 
+}
+table
+{
+  width: 100%;
+
+ 
+}
+footer
+{
+  width: 100%;
+  height: 40px;
+  background: #272727;
+  position: fixed;
+  bottom: 0;
+}
+footer p
+{
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+}
+.imagenes 
+{
+  position: center;
+  margin: 2rem auto;
+  
+}

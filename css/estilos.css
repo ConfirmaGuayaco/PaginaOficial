@@ -1,0 +1,88 @@
+.logo img 
+{
+  width: 50%;
+  height: auto;
+  position: relative;
+  margin: 0.5rem auto;
+}
+.menu li
+{
+  padding: 20px 100px;
+  float: left;
+ }
+ header
+ {
+   width: 100%;
+  height: 90px;
+  border-bottom: solid 2px #ccc;
+  background: #efefef;
+    border-bottom-style: solid;
+  border-bottom-color: #585858;
+  border-bottom-width: 5px;   
+ }
+ .jumbotron
+ {
+  background: url(../img/podcast..jpg);
+  background-size:100%;
+   background-repeat: no-repeat;
+  }
+.jumbotron h1, .jumbotron p 
+{
+  color: #ffff !important; 
+  text-shadow: #272727 8px 2px 6px;
+  text-align: center; 
+}
+ .padre
+ {
+  background: #b2ffff;
+  display: inline-block;
+  height:  160px;
+  margin:  5rem auto;
+  position: relative;
+  text-align: center;
+  width: 300px;
+}
+.padre p
+{
+  font-size: 1.5rem;
+  margin: 0; 
+  padding: 0 1rem;
+  position: absolute; 
+  top: 40px;
+  vertical-align: middle;
+}
+.hijo  
+{
+  background: #b2ffff;
+  display: inline-block;
+  height:  160px;
+  margin:  5rem auto;
+  position: relative;
+  text-align: center;
+  width: 300px;
+}
+.hijo p
+{
+  font-size: 1.5rem;
+  margin: 0; 
+  padding: 0 1rem;
+  position: absolute; 
+  top: 40px;
+  vertical-align: middle;
+   
+}
+iframe
+{
+width: 100%;
+height: 650px;
+margin: 7rem auto;
+}
+#video, video
+{
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-left: 300px;
+  width: 600px;
+  height: 
+}
+
